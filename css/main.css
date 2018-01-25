@@ -3,11 +3,16 @@
 }
 
 li {
-    font-size: 25;
+    font-size: 20;
 }
 
 .entrada {
 
     margin-top: 30px;
 
+}
+
+body { 
+    
+    padding-top: 70px; 
 }
